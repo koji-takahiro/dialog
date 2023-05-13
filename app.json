@@ -1,0 +1,11 @@
+{
+    "name": "dialog",
+    "description": "dialog repo",
+    "env": {
+        "PASSWORD": {
+            "description": "PASSWORD",
+            "value": "password"
+        }
+    },
+    "stack": "container"
+}
